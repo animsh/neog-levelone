@@ -1,4 +1,4 @@
-//ex07: function to add two numbers
+//ex07: function to add, multiply two numbers
 //challenge
 //Take two numbers and add them. Put this entire thing in a function add() and return the result
 var readlineSync = require("readline-sync");
